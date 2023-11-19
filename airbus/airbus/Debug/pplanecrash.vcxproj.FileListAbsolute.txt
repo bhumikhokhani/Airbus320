@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\pplanecrash\Debug\airbus.exe
+C:\Users\asus\source\repos\airbus\Debug\airbus.exe
